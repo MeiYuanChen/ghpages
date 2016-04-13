@@ -12,4 +12,6 @@
 <img src="img/cd.png"/>
 <p>第六步：clone项目克隆到本地</p>
 <img src="img/clone.png"/>
-
+<p>第七步：把项目文件复制粘贴到刚才从github克隆的文件夹</p>
+<p>第八步：在命令行进入刚才从github克隆的文件夹，依次输入add、commit push命令</p>
+<img src="img/push.png"/>
