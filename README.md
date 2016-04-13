@@ -15,3 +15,10 @@
 <p>第七步：把项目文件复制粘贴到刚才从github克隆的文件夹</p>
 <p>第八步：在命令行进入刚才从github克隆的文件夹，依次输入add、commit push命令</p>
 <img src="img/push.png"/>
+<p>第九步：点击Settings选项卡</p>
+<img src="img/setting.png"/>
+<p>第十步：复制地址，并粘贴到浏览器地址栏</p>
+<img src="img/pages.png"/>
+<p>第十一步：添加/文件名回车就能在浏览器看到html,我这里只是教程就没上传html文件，乱码请忽视</p>
+<img src="img/html.png"/>
+<h3>完成啦，记住以后push gh-pages而不是master哦</h3>
