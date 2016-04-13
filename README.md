@@ -1,4 +1,5 @@
 <h2>把作品（html）上传到gh-pages</h2>
+<p>本教程参考网站：http://www.jianshu.com/p/8d26730386f3</p>
 <p>第一步:项目创建好后，点击Settings选项卡</p>
 <img src="img/setting.png"/>
 <p>第二步：点击Launch automatic page generator按钮</p>
